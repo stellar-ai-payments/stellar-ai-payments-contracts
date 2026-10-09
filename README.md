@@ -5,7 +5,12 @@
 [![Stellar Wave](https://img.shields.io/badge/Stellar-Wave%205-7b2d8b)](https://communityfund.stellar.org)
 [![Soroban](https://img.shields.io/badge/Soroban-Protocol%2021-blue)](https://developers.stellar.org/docs/build/smart-contracts)
 
-> **Production-ready Rust/Soroban smart contracts for AI agent payment infrastructure on Stellar — escrow, fee sponsorship vault, and multi-destination payment routing.**
+> **Development-stage Rust/Soroban smart contracts for AI-agent payment infrastructure on Stellar — escrow, fee sponsorship, and multi-destination payment routing.**
+
+> **Status:** the core flows are implemented for development and testnet work.
+> Event indexing, production security review, deployment hardening, and some
+> administrative controls remain active work. This repository is not audited and
+> should not be used with production funds.
 
 ---
 
